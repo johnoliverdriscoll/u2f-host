@@ -20,9 +20,10 @@
   "devDependencies": {
     "chai": "4",
     "mocha": "3",
+    "nan": "^2.7.0",
     "u2f": "git+https://github.com/ashtuchkin/u2f.git"
   },
   "engines": {
-    "node" : "^6"
+    "node": ">=6"
   }
 }
